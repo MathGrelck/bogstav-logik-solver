@@ -1,0 +1,8 @@
+M,A,G,N,U,S
+P,Å,S,K,U,D
+L,Æ,S,K,U,R
+R,Y,T,T,E,R
+D,Y,K,K,E,R
+M,A,G,N,A,T
+L,A,M,P,E,T
+1,1,2,2,2,2,3
